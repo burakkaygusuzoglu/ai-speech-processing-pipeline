@@ -1,0 +1,49 @@
+# Python virtual environment
+
+venv/
+.venv/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+
+.env
+
+# Hugging Face cache
+
+.cache/
+hf_cache/
+
+# Audio outputs
+
+recordings/
+outputs/
+transcripts/
+metadata/
+
+# Large voice models
+
+*.onnx
+
+# Optional: keep json config if you want
+
+# *.json
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
