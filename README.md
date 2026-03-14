@@ -35,7 +35,10 @@ Output WAV
 ↓
 Metadata JSON
 
+The application automatically creates required output folders during execution.
+
 ---
+
 
 ## Technologies Used
 
